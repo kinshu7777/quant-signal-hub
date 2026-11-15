@@ -11,7 +11,7 @@
       "obi_20_pct": 75.4,
       "cvd_pct": 30.2,
       "regime": "BEAR_TREND",
-      "signal": "NEUTRAL / WAIT FOR ALIGNMENT"
+      "signal": "CASH / WAIT FOR HIGH-CONVICTION SETUP"
     },
     {
       "symbol": "ETHUSDT",
@@ -33,7 +33,7 @@
       "obi_20_pct": 23.5,
       "cvd_pct": -16.4,
       "regime": "BEAR_TREND",
-      "signal": "NEUTRAL / WAIT FOR ALIGNMENT"
+      "signal": "CASH / WAIT FOR HIGH-CONVICTION SETUP"
     },
     {
       "symbol": "BNBUSDT",
@@ -44,7 +44,7 @@
       "obi_20_pct": 32.3,
       "cvd_pct": -39.4,
       "regime": "BEAR_TREND",
-      "signal": "NEUTRAL / WAIT FOR ALIGNMENT"
+      "signal": "CASH / WAIT FOR HIGH-CONVICTION SETUP"
     }
   ]
 }

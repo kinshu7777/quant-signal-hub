@@ -54,16 +54,16 @@ def fetch_symbol_snapshot(symbol: str) -> dict:
     rsi14 = 100.0 if al == 0 else 100.0 - (100.0 / (1.0 + ag / al))
 
     regime = "BULL_TREND" if (closes[-1] > ema50 and ema20 > ema50) else "BEAR_TREND"
-    if rsi14 > 70 and obi_20 < -0.15 and cvd < 0:
-        signal = "SHORT (MM Absorption Fade)"
-    elif rsi14 < 30 and obi_20 > 0.15 and cvd > 0:
-        signal = "LONG (MM Absorption Bounce)"
-    elif regime == "BULL_TREND" and obi_20 > 0 and cvd > 0:
-        signal = "LONG (Trend + Flow Aligned)"
-    elif regime == "BEAR_TREND" and obi_20 < 0 and cvd < 0:
-        signal = "SHORT (Trend + Flow Aligned)"
+    if rsi14 >= 68:
+        signal = "SHORT (Overbought RSI Exhaustion Fade)"
+    elif rsi14 <= 32:
+        signal = "LONG (Oversold RSI Absorption Bounce)"
+    elif regime == "BULL_TREND" and rsi14 < 65 and obi_20 > 0.10 and cvd > 0:
+        signal = "LONG (Trend + Orderflow Aligned)"
+    elif regime == "BEAR_TREND" and rsi14 > 35 and obi_20 < -0.10 and cvd < 0:
+        signal = "SHORT (Trend + Orderflow Aligned)"
     else:
-        signal = "NEUTRAL / WAIT FOR ALIGNMENT"
+        signal = "CASH / WAIT FOR HIGH-CONVICTION SETUP"
 
     return {
         "symbol": symbol,
