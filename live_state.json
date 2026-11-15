@@ -1,6 +1,81 @@
 {
   "updated_at": "2026-11-15 04:03:51 UTC",
   "wallet_address": "0x0A96Fe63357c83640445Fd1Ee9d210B334b94052",
+  "earnings_monitor": {
+    "total_wallet_usd": 0.0,
+    "ready_for_user_trade_approval": false,
+    "trading_lock_state": "STANDBY_AWAITING_USER_COMMAND",
+    "any_bounty_merged": false,
+    "chains": {
+      "Ethereum": {
+        "native": 0.0,
+        "symbol": "ETH",
+        "tokens": {
+          "USDC": 0.0,
+          "USDT": 0.0
+        },
+        "usd": 0.0
+      },
+      "Base": {
+        "native": 0.0,
+        "symbol": "ETH",
+        "tokens": {
+          "USDC": 0.0
+        },
+        "usd": 0.0
+      },
+      "Arbitrum": {
+        "native": 0.0,
+        "symbol": "ETH",
+        "tokens": {
+          "USDC": 0.0,
+          "USDT": 0.0
+        },
+        "usd": 0.0
+      },
+      "Optimism": {
+        "native": 0.0,
+        "symbol": "ETH",
+        "tokens": {
+          "USDC": 0.0,
+          "USDT": 0.0
+        },
+        "usd": 0.0
+      },
+      "Polygon": {
+        "native": 0.0,
+        "symbol": "POL",
+        "tokens": {
+          "USDC": 0.0,
+          "USDT": 0.0
+        },
+        "usd": 0.0
+      }
+    },
+    "bounty_prs": [
+      {
+        "pr": 211,
+        "label": "Issue #45 - Dockerize Go App",
+        "state": "OPEN",
+        "comments": 0,
+        "url": "https://github.com/golang-cafe/job-board/pull/211"
+      },
+      {
+        "pr": 212,
+        "label": "Issue #97 - $100 Twitter API v2 Scheduler",
+        "state": "OPEN",
+        "comments": 0,
+        "url": "https://github.com/golang-cafe/job-board/pull/212"
+      },
+      {
+        "pr": 213,
+        "label": "Issue #91 - $100 LinkedIn Share Jobs API",
+        "state": "OPEN",
+        "comments": 0,
+        "url": "https://github.com/golang-cafe/job-board/pull/213"
+      }
+    ]
+  },
   "signals": [
     {
       "symbol": "BTCUSDT",
