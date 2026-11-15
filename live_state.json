@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-15 04:13:32 UTC",
+  "updated_at": "2026-11-15 11:55:49 UTC",
   "wallet_address": "0x0A96Fe63357c83640445Fd1Ee9d210B334b94052",
   "earnings_monitor": {
     "total_wallet_usd": 0.0,
@@ -79,47 +79,47 @@
   "signals": [
     {
       "symbol": "BTCUSDT",
-      "price": 64771.91,
-      "ema20_1h": 65256.2,
-      "ema50_1h": 66986.6,
-      "rsi14_1h": 42.6,
-      "obi_20_pct": 94.2,
-      "cvd_pct": 87.5,
+      "price": 65448.44,
+      "ema20_1h": 65150.55,
+      "ema50_1h": 66437.14,
+      "rsi14_1h": 49.8,
+      "obi_20_pct": -86.1,
+      "cvd_pct": 57.3,
       "regime": "BEAR_TREND",
       "signal": "CASH / WAIT FOR HIGH-CONVICTION SETUP"
     },
     {
       "symbol": "ETHUSDT",
-      "price": 1816.55,
-      "ema20_1h": 1821.72,
-      "ema50_1h": 1878.19,
-      "rsi14_1h": 45.4,
-      "obi_20_pct": 58.5,
-      "cvd_pct": 89.4,
+      "price": 1830.54,
+      "ema20_1h": 1817.27,
+      "ema50_1h": 1861.29,
+      "rsi14_1h": 50.5,
+      "obi_20_pct": -86.6,
+      "cvd_pct": 19.5,
       "regime": "BEAR_TREND",
       "signal": "CASH / WAIT FOR HIGH-CONVICTION SETUP"
     },
     {
       "symbol": "SOLUSDT",
-      "price": 71.22,
-      "ema20_1h": 72.17,
-      "ema50_1h": 75.14,
-      "rsi14_1h": 41.3,
-      "obi_20_pct": 36.0,
-      "cvd_pct": 83.5,
+      "price": 72.52,
+      "ema20_1h": 71.77,
+      "ema50_1h": 74.19,
+      "rsi14_1h": 50.9,
+      "obi_20_pct": 12.4,
+      "cvd_pct": 26.1,
       "regime": "BEAR_TREND",
       "signal": "CASH / WAIT FOR HIGH-CONVICTION SETUP"
     },
     {
       "symbol": "BNBUSDT",
-      "price": 593.85,
-      "ema20_1h": 594.21,
-      "ema50_1h": 611.94,
-      "rsi14_1h": 45.7,
-      "obi_20_pct": 39.2,
-      "cvd_pct": -1.5,
+      "price": 597.25,
+      "ema20_1h": 594.15,
+      "ema50_1h": 607.52,
+      "rsi14_1h": 49.9,
+      "obi_20_pct": -43.1,
+      "cvd_pct": -31.7,
       "regime": "BEAR_TREND",
-      "signal": "CASH / WAIT FOR HIGH-CONVICTION SETUP"
+      "signal": "SHORT (Trend + Orderflow Aligned)"
     }
   ]
 }
