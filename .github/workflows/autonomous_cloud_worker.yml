@@ -1,0 +1,31 @@
+name: 24/7 Cloud Autonomous Quant Worker
+
+on:
+  schedule:
+    - cron: "15 * * * *"
+  workflow_dispatch:
+  push:
+    branches: [ main ]
+
+permissions:
+  contents: write
+
+jobs:
+  update-live-signals:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Set up Python 3.12
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Install requests
+        run: pip install requests
+      - name: Run Cloud Quant Worker & Update live_state.json
+        run: python cloud_worker.py
+      - name: Commit & Push Updated Signals to GitHub Pages
+        run: |
+          git config user.name "kinshu7777-cloud-bot"
+          git config user.email "kinshupramanik68@gmail.com"
+          git add live_state.json
+          git diff --staged --quiet || (git commit -m "chore(signals): hourly cloud orderflow update [skip ci]" && git push)
