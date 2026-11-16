@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-11-16 06:21:17 UTC",
+  "updated_at": "2026-11-16 16:58:54 UTC",
   "wallet_address": "0x0A96Fe63357c83640445Fd1Ee9d210B334b94052",
   "earnings_monitor": {
-    "total_wallet_usd": 0.0,
-    "ready_for_user_trade_approval": false,
+    "total_wallet_usd": 25.0,
+    "ready_for_user_trade_approval": true,
     "trading_lock_state": "STANDBY_AWAITING_USER_COMMAND",
     "any_bounty_merged": false,
     "chains": {
@@ -20,9 +20,9 @@
         "native": 0.0,
         "symbol": "ETH",
         "tokens": {
-          "USDC": 0.0
+          "USDC": 25.0
         },
-        "usd": 0.0
+        "usd": 25.0
       },
       "Arbitrum": {
         "native": 0.0,
@@ -79,45 +79,45 @@
   "signals": [
     {
       "symbol": "BTCUSDT",
-      "price": 64410.23,
-      "ema20_1h": 64905.78,
-      "ema50_1h": 65526.56,
-      "rsi14_1h": 41.8,
-      "obi_20_pct": 5.0,
-      "cvd_pct": -97.8,
+      "price": 64903.18,
+      "ema20_1h": 64711.85,
+      "ema50_1h": 65086.49,
+      "rsi14_1h": 51.2,
+      "obi_20_pct": 87.2,
+      "cvd_pct": -35.3,
       "regime": "BEAR_TREND",
       "signal": "CASH / WAIT FOR HIGH-CONVICTION SETUP"
     },
     {
       "symbol": "ETHUSDT",
-      "price": 1809.39,
-      "ema20_1h": 1818.55,
-      "ema50_1h": 1836.71,
-      "rsi14_1h": 45.3,
-      "obi_20_pct": -97.7,
-      "cvd_pct": -92.8,
+      "price": 1829.52,
+      "ema20_1h": 1817.28,
+      "ema50_1h": 1826.3,
+      "rsi14_1h": 53.4,
+      "obi_20_pct": 91.1,
+      "cvd_pct": -5.5,
       "regime": "BEAR_TREND",
-      "signal": "SHORT (Trend + Orderflow Aligned)"
+      "signal": "CASH / WAIT FOR HIGH-CONVICTION SETUP"
     },
     {
       "symbol": "SOLUSDT",
-      "price": 70.95,
-      "ema20_1h": 71.73,
-      "ema50_1h": 72.86,
-      "rsi14_1h": 42.0,
-      "obi_20_pct": -32.4,
-      "cvd_pct": -77.2,
+      "price": 71.43,
+      "ema20_1h": 71.39,
+      "ema50_1h": 72.01,
+      "rsi14_1h": 49.3,
+      "obi_20_pct": 10.3,
+      "cvd_pct": 10.3,
       "regime": "BEAR_TREND",
-      "signal": "SHORT (Trend + Orderflow Aligned)"
+      "signal": "CASH / WAIT FOR HIGH-CONVICTION SETUP"
     },
     {
       "symbol": "BNBUSDT",
-      "price": 589.6,
-      "ema20_1h": 592.71,
-      "ema50_1h": 598.94,
-      "rsi14_1h": 43.4,
-      "obi_20_pct": 42.0,
-      "cvd_pct": 11.7,
+      "price": 591.23,
+      "ema20_1h": 590.9,
+      "ema50_1h": 594.72,
+      "rsi14_1h": 49.0,
+      "obi_20_pct": 81.3,
+      "cvd_pct": 21.3,
       "regime": "BEAR_TREND",
       "signal": "CASH / WAIT FOR HIGH-CONVICTION SETUP"
     }
