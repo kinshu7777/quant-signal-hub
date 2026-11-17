@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-17 00:46:59 UTC",
+  "updated_at": "2026-11-17 09:11:14 UTC",
   "wallet_address": "0x0A96Fe63357c83640445Fd1Ee9d210B334b94052",
   "earnings_monitor": {
     "total_wallet_usd": 25.0,
@@ -79,45 +79,45 @@
   "signals": [
     {
       "symbol": "BTCUSDT",
-      "price": 64604.01,
-      "ema20_1h": 64875.94,
-      "ema50_1h": 65033.23,
-      "rsi14_1h": 45.4,
-      "obi_20_pct": -84.4,
-      "cvd_pct": 3.5,
+      "price": 64236.98,
+      "ema20_1h": 64722.85,
+      "ema50_1h": 64656.57,
+      "rsi14_1h": 42.8,
+      "obi_20_pct": 42.5,
+      "cvd_pct": -88.5,
       "regime": "BEAR_TREND",
       "signal": "CASH / WAIT FOR HIGH-CONVICTION SETUP"
     },
     {
       "symbol": "ETHUSDT",
-      "price": 1813.76,
-      "ema20_1h": 1819.92,
-      "ema50_1h": 1824.14,
+      "price": 1812.86,
+      "ema20_1h": 1822.61,
+      "ema50_1h": 1812.78,
       "rsi14_1h": 46.6,
-      "obi_20_pct": 78.3,
-      "cvd_pct": -42.0,
+      "obi_20_pct": -86.7,
+      "cvd_pct": -94.6,
       "regime": "BEAR_TREND",
-      "signal": "CASH / WAIT FOR HIGH-CONVICTION SETUP"
+      "signal": "SHORT (Trend + Orderflow Aligned)"
     },
     {
       "symbol": "SOLUSDT",
-      "price": 71.49,
-      "ema20_1h": 71.48,
-      "ema50_1h": 71.84,
-      "rsi14_1h": 48.7,
-      "obi_20_pct": 9.9,
-      "cvd_pct": -21.2,
-      "regime": "BEAR_TREND",
+      "price": 72.15,
+      "ema20_1h": 72.08,
+      "ema50_1h": 71.55,
+      "rsi14_1h": 52.7,
+      "obi_20_pct": -12.8,
+      "cvd_pct": -29.9,
+      "regime": "BULL_TREND",
       "signal": "CASH / WAIT FOR HIGH-CONVICTION SETUP"
     },
     {
       "symbol": "BNBUSDT",
-      "price": 590.11,
-      "ema20_1h": 591.37,
-      "ema50_1h": 592.78,
-      "rsi14_1h": 46.5,
-      "obi_20_pct": 62.5,
-      "cvd_pct": 85.4,
+      "price": 589.8,
+      "ema20_1h": 592.04,
+      "ema50_1h": 590.26,
+      "rsi14_1h": 46.6,
+      "obi_20_pct": 47.2,
+      "cvd_pct": -51.6,
       "regime": "BEAR_TREND",
       "signal": "CASH / WAIT FOR HIGH-CONVICTION SETUP"
     }
