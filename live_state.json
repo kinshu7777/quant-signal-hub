@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-19 01:11:21 UTC",
+  "updated_at": "2026-11-19 08:46:28 UTC",
   "wallet_address": "0x0A96Fe63357c83640445Fd1Ee9d210B334b94052",
   "earnings_monitor": {
     "total_wallet_usd": 27.0,
@@ -79,45 +79,45 @@
   "signals": [
     {
       "symbol": "BTCUSDT",
-      "price": 63160.0,
-      "ema20_1h": 63364.98,
-      "ema50_1h": 63959.86,
-      "rsi14_1h": 43.7,
-      "obi_20_pct": -92.1,
-      "cvd_pct": -64.3,
+      "price": 63627.32,
+      "ema20_1h": 63402.71,
+      "ema50_1h": 63839.16,
+      "rsi14_1h": 51.6,
+      "obi_20_pct": 85.7,
+      "cvd_pct": 97.2,
       "regime": "BEAR_TREND",
-      "signal": "SHORT (Trend + Orderflow Aligned)"
+      "signal": "CASH / WAIT FOR HIGH-CONVICTION SETUP"
     },
     {
       "symbol": "ETHUSDT",
-      "price": 1786.09,
-      "ema20_1h": 1780.74,
-      "ema50_1h": 1797.23,
-      "rsi14_1h": 50.1,
-      "obi_20_pct": -95.1,
-      "cvd_pct": 3.4,
+      "price": 1800.4,
+      "ema20_1h": 1789.25,
+      "ema50_1h": 1795.98,
+      "rsi14_1h": 54.8,
+      "obi_20_pct": -52.0,
+      "cvd_pct": 20.3,
       "regime": "BEAR_TREND",
       "signal": "CASH / WAIT FOR HIGH-CONVICTION SETUP"
     },
     {
       "symbol": "SOLUSDT",
-      "price": 73.61,
-      "ema20_1h": 73.65,
-      "ema50_1h": 73.43,
-      "rsi14_1h": 49.5,
-      "obi_20_pct": 4.8,
-      "cvd_pct": 77.9,
+      "price": 74.45,
+      "ema20_1h": 74.09,
+      "ema50_1h": 73.71,
+      "rsi14_1h": 54.4,
+      "obi_20_pct": 22.9,
+      "cvd_pct": 81.1,
       "regime": "BULL_TREND",
-      "signal": "CASH / WAIT FOR HIGH-CONVICTION SETUP"
+      "signal": "LONG (Trend + Orderflow Aligned)"
     },
     {
       "symbol": "BNBUSDT",
-      "price": 584.52,
-      "ema20_1h": 584.55,
-      "ema50_1h": 587.79,
-      "rsi14_1h": 47.6,
-      "obi_20_pct": 13.4,
-      "cvd_pct": 4.0,
+      "price": 589.41,
+      "ema20_1h": 585.86,
+      "ema50_1h": 587.7,
+      "rsi14_1h": 56.3,
+      "obi_20_pct": -14.0,
+      "cvd_pct": 4.1,
       "regime": "BEAR_TREND",
       "signal": "CASH / WAIT FOR HIGH-CONVICTION SETUP"
     }
