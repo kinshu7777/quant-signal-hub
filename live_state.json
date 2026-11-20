@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-11-19 18:14:30 UTC",
+  "updated_at": "2026-11-20 00:39:24 UTC",
   "wallet_address": "0x0A96Fe63357c83640445Fd1Ee9d210B334b94052",
   "earnings_monitor": {
-    "total_wallet_usd": 27.99,
+    "total_wallet_usd": 27.98,
     "ready_for_user_trade_approval": true,
     "trading_lock_state": "STANDBY_AWAITING_USER_COMMAND",
     "any_bounty_merged": false,
@@ -22,7 +22,7 @@
         "tokens": {
           "USDC": 27.0
         },
-        "usd": 27.99
+        "usd": 27.98
       },
       "Arbitrum": {
         "native": 0.0,
@@ -58,66 +58,66 @@
         "label": "Issue #45 - Dockerize Go App",
         "state": "OPEN",
         "comments": 0,
-        "url": "https://github.com/golang-cafe/job-board/pull/211"
+        "url": null
       },
       {
         "pr": 212,
         "label": "Issue #97 - $100 Twitter API v2 Scheduler",
         "state": "OPEN",
         "comments": 0,
-        "url": "https://github.com/golang-cafe/job-board/pull/212"
+        "url": null
       },
       {
         "pr": 213,
         "label": "Issue #91 - $100 LinkedIn Share Jobs API",
         "state": "OPEN",
         "comments": 0,
-        "url": "https://github.com/golang-cafe/job-board/pull/213"
+        "url": null
       }
     ]
   },
   "signals": [
     {
       "symbol": "BTCUSDT",
-      "price": 62749.98,
-      "ema20_1h": 63348.14,
-      "ema50_1h": 63656.42,
-      "rsi14_1h": 38.1,
-      "obi_20_pct": -3.5,
-      "cvd_pct": 53.9,
+      "price": 62038.42,
+      "ema20_1h": 62761.64,
+      "ema50_1h": 63354.15,
+      "rsi14_1h": 37.3,
+      "obi_20_pct": 87.9,
+      "cvd_pct": 53.1,
       "regime": "BEAR_TREND",
       "signal": "CASH / WAIT FOR HIGH-CONVICTION SETUP"
     },
     {
       "symbol": "ETHUSDT",
-      "price": 1773.19,
-      "ema20_1h": 1789.14,
-      "ema50_1h": 1794.89,
-      "rsi14_1h": 41.2,
-      "obi_20_pct": -75.0,
-      "cvd_pct": 29.9,
+      "price": 1755.03,
+      "ema20_1h": 1774.97,
+      "ema50_1h": 1787.09,
+      "rsi14_1h": 39.2,
+      "obi_20_pct": -68.3,
+      "cvd_pct": 43.2,
       "regime": "BEAR_TREND",
       "signal": "CASH / WAIT FOR HIGH-CONVICTION SETUP"
     },
     {
       "symbol": "SOLUSDT",
-      "price": 73.79,
-      "ema20_1h": 74.17,
-      "ema50_1h": 73.98,
-      "rsi14_1h": 46.6,
-      "obi_20_pct": 12.6,
-      "cvd_pct": 27.2,
+      "price": 72.88,
+      "ema20_1h": 73.67,
+      "ema50_1h": 73.86,
+      "rsi14_1h": 42.5,
+      "obi_20_pct": 24.8,
+      "cvd_pct": -8.8,
       "regime": "BEAR_TREND",
       "signal": "CASH / WAIT FOR HIGH-CONVICTION SETUP"
     },
     {
       "symbol": "BNBUSDT",
-      "price": 585.3,
-      "ema20_1h": 587.56,
-      "ema50_1h": 588.14,
-      "rsi14_1h": 44.6,
-      "obi_20_pct": -3.3,
-      "cvd_pct": 26.9,
+      "price": 580.3,
+      "ema20_1h": 584.35,
+      "ema50_1h": 586.51,
+      "rsi14_1h": 41.0,
+      "obi_20_pct": 9.4,
+      "cvd_pct": -46.3,
       "regime": "BEAR_TREND",
       "signal": "CASH / WAIT FOR HIGH-CONVICTION SETUP"
     }
