@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-20 00:39:24 UTC",
+  "updated_at": "2026-11-20 08:30:43 UTC",
   "wallet_address": "0x0A96Fe63357c83640445Fd1Ee9d210B334b94052",
   "earnings_monitor": {
     "total_wallet_usd": 27.98,
@@ -58,66 +58,66 @@
         "label": "Issue #45 - Dockerize Go App",
         "state": "OPEN",
         "comments": 0,
-        "url": null
+        "url": "https://github.com/golang-cafe/job-board/pull/211"
       },
       {
         "pr": 212,
         "label": "Issue #97 - $100 Twitter API v2 Scheduler",
         "state": "OPEN",
         "comments": 0,
-        "url": null
+        "url": "https://github.com/golang-cafe/job-board/pull/212"
       },
       {
         "pr": 213,
         "label": "Issue #91 - $100 LinkedIn Share Jobs API",
         "state": "OPEN",
         "comments": 0,
-        "url": null
+        "url": "https://github.com/golang-cafe/job-board/pull/213"
       }
     ]
   },
   "signals": [
     {
       "symbol": "BTCUSDT",
-      "price": 62038.42,
-      "ema20_1h": 62761.64,
-      "ema50_1h": 63354.15,
-      "rsi14_1h": 37.3,
-      "obi_20_pct": 87.9,
-      "cvd_pct": 53.1,
+      "price": 61985.83,
+      "ema20_1h": 62303.72,
+      "ema50_1h": 62918.23,
+      "rsi14_1h": 43.8,
+      "obi_20_pct": -92.9,
+      "cvd_pct": 29.7,
       "regime": "BEAR_TREND",
       "signal": "CASH / WAIT FOR HIGH-CONVICTION SETUP"
     },
     {
       "symbol": "ETHUSDT",
-      "price": 1755.03,
-      "ema20_1h": 1774.97,
-      "ema50_1h": 1787.09,
-      "rsi14_1h": 39.2,
-      "obi_20_pct": -68.3,
-      "cvd_pct": 43.2,
+      "price": 1755.97,
+      "ema20_1h": 1759.17,
+      "ema50_1h": 1774.47,
+      "rsi14_1h": 46.7,
+      "obi_20_pct": 43.6,
+      "cvd_pct": 16.4,
       "regime": "BEAR_TREND",
       "signal": "CASH / WAIT FOR HIGH-CONVICTION SETUP"
     },
     {
       "symbol": "SOLUSDT",
-      "price": 72.88,
-      "ema20_1h": 73.67,
-      "ema50_1h": 73.86,
-      "rsi14_1h": 42.5,
-      "obi_20_pct": 24.8,
-      "cvd_pct": -8.8,
+      "price": 72.74,
+      "ema20_1h": 73.12,
+      "ema50_1h": 73.53,
+      "rsi14_1h": 45.4,
+      "obi_20_pct": -2.0,
+      "cvd_pct": 51.4,
       "regime": "BEAR_TREND",
       "signal": "CASH / WAIT FOR HIGH-CONVICTION SETUP"
     },
     {
       "symbol": "BNBUSDT",
-      "price": 580.3,
-      "ema20_1h": 584.35,
-      "ema50_1h": 586.51,
-      "rsi14_1h": 41.0,
-      "obi_20_pct": 9.4,
-      "cvd_pct": -46.3,
+      "price": 573.55,
+      "ema20_1h": 577.85,
+      "ema50_1h": 582.62,
+      "rsi14_1h": 40.9,
+      "obi_20_pct": 72.0,
+      "cvd_pct": 48.3,
       "regime": "BEAR_TREND",
       "signal": "CASH / WAIT FOR HIGH-CONVICTION SETUP"
     }
