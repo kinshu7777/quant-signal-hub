@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-11-20 23:58:15 UTC",
+  "updated_at": "2026-11-21 07:00:06 UTC",
   "wallet_address": "0x0A96Fe63357c83640445Fd1Ee9d210B334b94052",
   "earnings_monitor": {
-    "total_wallet_usd": 27.91,
+    "total_wallet_usd": 27.92,
     "ready_for_user_trade_approval": true,
     "trading_lock_state": "STANDBY_AWAITING_USER_COMMAND",
     "any_bounty_merged": false,
@@ -22,7 +22,7 @@
         "tokens": {
           "USDC": 27.0
         },
-        "usd": 27.91
+        "usd": 27.92
       },
       "Arbitrum": {
         "native": 0.0,
@@ -58,68 +58,68 @@
         "label": "Issue #45 - Dockerize Go App",
         "state": "OPEN",
         "comments": 0,
-        "url": "https://github.com/golang-cafe/job-board/pull/211"
+        "url": null
       },
       {
         "pr": 212,
         "label": "Issue #97 - $100 Twitter API v2 Scheduler",
         "state": "OPEN",
         "comments": 0,
-        "url": "https://github.com/golang-cafe/job-board/pull/212"
+        "url": null
       },
       {
         "pr": 213,
         "label": "Issue #91 - $100 LinkedIn Share Jobs API",
         "state": "OPEN",
         "comments": 0,
-        "url": "https://github.com/golang-cafe/job-board/pull/213"
+        "url": null
       }
     ]
   },
   "signals": [
     {
       "symbol": "BTCUSDT",
-      "price": 58892.3,
-      "ema20_1h": 60204.31,
-      "ema50_1h": 61514.86,
-      "rsi14_1h": 31.8,
-      "obi_20_pct": 92.1,
-      "cvd_pct": -29.8,
+      "price": 58079.99,
+      "ema20_1h": 58841.52,
+      "ema50_1h": 60451.43,
+      "rsi14_1h": 41.5,
+      "obi_20_pct": 10.3,
+      "cvd_pct": -6.3,
       "regime": "BEAR_TREND",
-      "signal": "LONG (Oversold RSI Absorption Bounce)"
+      "signal": "CASH / WAIT FOR HIGH-CONVICTION SETUP"
     },
     {
       "symbol": "ETHUSDT",
-      "price": 1622.01,
-      "ema20_1h": 1675.83,
-      "ema50_1h": 1723.74,
-      "rsi14_1h": 27.9,
-      "obi_20_pct": 67.8,
-      "cvd_pct": -42.4,
+      "price": 1640.52,
+      "ema20_1h": 1637.26,
+      "ema50_1h": 1690.51,
+      "rsi14_1h": 47.0,
+      "obi_20_pct": -71.8,
+      "cvd_pct": 6.4,
       "regime": "BEAR_TREND",
-      "signal": "LONG (Oversold RSI Absorption Bounce)"
+      "signal": "CASH / WAIT FOR HIGH-CONVICTION SETUP"
     },
     {
       "symbol": "SOLUSDT",
-      "price": 68.88,
-      "ema20_1h": 70.26,
-      "ema50_1h": 71.83,
-      "rsi14_1h": 38.4,
-      "obi_20_pct": -8.4,
-      "cvd_pct": 4.8,
+      "price": 68.21,
+      "ema20_1h": 68.79,
+      "ema50_1h": 70.66,
+      "rsi14_1h": 44.6,
+      "obi_20_pct": -19.7,
+      "cvd_pct": 43.7,
       "regime": "BEAR_TREND",
       "signal": "CASH / WAIT FOR HIGH-CONVICTION SETUP"
     },
     {
       "symbol": "BNBUSDT",
-      "price": 540.45,
-      "ema20_1h": 554.02,
-      "ema50_1h": 567.78,
-      "rsi14_1h": 27.9,
-      "obi_20_pct": 35.3,
-      "cvd_pct": -36.1,
+      "price": 526.38,
+      "ema20_1h": 537.89,
+      "ema50_1h": 555.4,
+      "rsi14_1h": 35.5,
+      "obi_20_pct": 84.4,
+      "cvd_pct": -27.2,
       "regime": "BEAR_TREND",
-      "signal": "LONG (Oversold RSI Absorption Bounce)"
+      "signal": "CASH / WAIT FOR HIGH-CONVICTION SETUP"
     }
   ]
 }
