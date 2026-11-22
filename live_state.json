@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-22 02:12:20 UTC",
+  "updated_at": "2026-11-22 09:46:38 UTC",
   "wallet_address": "0x0A96Fe63357c83640445Fd1Ee9d210B334b94052",
   "earnings_monitor": {
     "total_wallet_usd": 27.95,
@@ -79,47 +79,47 @@
   "signals": [
     {
       "symbol": "BTCUSDT",
-      "price": 60046.26,
-      "ema20_1h": 59799.76,
-      "ema50_1h": 60071.86,
-      "rsi14_1h": 53.6,
-      "obi_20_pct": -60.3,
-      "cvd_pct": -71.3,
+      "price": 60224.86,
+      "ema20_1h": 59611.8,
+      "ema50_1h": 59832.04,
+      "rsi14_1h": 57.6,
+      "obi_20_pct": -51.5,
+      "cvd_pct": -20.0,
       "regime": "BEAR_TREND",
       "signal": "SHORT (Trend + Orderflow Aligned)"
     },
     {
       "symbol": "ETHUSDT",
-      "price": 1685.76,
-      "ema20_1h": 1674.74,
-      "ema50_1h": 1683.44,
-      "rsi14_1h": 55.8,
-      "obi_20_pct": 83.8,
-      "cvd_pct": -95.7,
+      "price": 1695.0,
+      "ema20_1h": 1673.21,
+      "ema50_1h": 1678.55,
+      "rsi14_1h": 59.9,
+      "obi_20_pct": -67.5,
+      "cvd_pct": 58.8,
       "regime": "BEAR_TREND",
       "signal": "CASH / WAIT FOR HIGH-CONVICTION SETUP"
     },
     {
       "symbol": "SOLUSDT",
-      "price": 70.34,
-      "ema20_1h": 69.99,
-      "ema50_1h": 70.27,
-      "rsi14_1h": 54.4,
-      "obi_20_pct": 8.9,
-      "cvd_pct": 63.2,
+      "price": 69.96,
+      "ema20_1h": 69.7,
+      "ema50_1h": 70.03,
+      "rsi14_1h": 52.7,
+      "obi_20_pct": -8.5,
+      "cvd_pct": 45.0,
       "regime": "BEAR_TREND",
       "signal": "CASH / WAIT FOR HIGH-CONVICTION SETUP"
     },
     {
       "symbol": "BNBUSDT",
-      "price": 549.13,
-      "ema20_1h": 545.23,
-      "ema50_1h": 549.94,
-      "rsi14_1h": 56.0,
-      "obi_20_pct": -82.0,
-      "cvd_pct": -11.7,
+      "price": 549.03,
+      "ema20_1h": 543.81,
+      "ema50_1h": 547.56,
+      "rsi14_1h": 57.3,
+      "obi_20_pct": 30.1,
+      "cvd_pct": 18.8,
       "regime": "BEAR_TREND",
-      "signal": "SHORT (Trend + Orderflow Aligned)"
+      "signal": "CASH / WAIT FOR HIGH-CONVICTION SETUP"
     }
   ]
 }
