@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-26 02:49:43 UTC",
+  "updated_at": "2026-11-26 12:23:00 UTC",
   "wallet_address": "0x0A96Fe63357c83640445Fd1Ee9d210B334b94052",
   "earnings_monitor": {
     "total_wallet_usd": 0.12,
@@ -79,47 +79,47 @@
   "signals": [
     {
       "symbol": "BTCUSDT",
-      "price": 61059.9,
-      "ema20_1h": 59892.76,
-      "ema50_1h": 60078.78,
-      "rsi14_1h": 67.4,
-      "obi_20_pct": -91.5,
-      "cvd_pct": 93.9,
-      "regime": "BEAR_TREND",
+      "price": 60631.97,
+      "ema20_1h": 60401.61,
+      "ema50_1h": 60160.7,
+      "rsi14_1h": 55.9,
+      "obi_20_pct": -96.7,
+      "cvd_pct": -19.3,
+      "regime": "BULL_TREND",
       "signal": "CASH / WAIT FOR HIGH-CONVICTION SETUP"
     },
     {
       "symbol": "ETHUSDT",
-      "price": 1705.16,
-      "ema20_1h": 1679.31,
-      "ema50_1h": 1686.19,
-      "rsi14_1h": 64.4,
-      "obi_20_pct": -79.9,
-      "cvd_pct": -73.5,
-      "regime": "BEAR_TREND",
-      "signal": "SHORT (Trend + Orderflow Aligned)"
+      "price": 1701.45,
+      "ema20_1h": 1690.73,
+      "ema50_1h": 1684.85,
+      "rsi14_1h": 58.6,
+      "obi_20_pct": -27.8,
+      "cvd_pct": -96.2,
+      "regime": "BULL_TREND",
+      "signal": "CASH / WAIT FOR HIGH-CONVICTION SETUP"
     },
     {
       "symbol": "SOLUSDT",
-      "price": 71.43,
-      "ema20_1h": 69.83,
-      "ema50_1h": 70.25,
-      "rsi14_1h": 66.8,
-      "obi_20_pct": 21.7,
-      "cvd_pct": 58.2,
-      "regime": "BEAR_TREND",
+      "price": 70.75,
+      "ema20_1h": 70.48,
+      "ema50_1h": 70.19,
+      "rsi14_1h": 55.8,
+      "obi_20_pct": -7.8,
+      "cvd_pct": -31.1,
+      "regime": "BULL_TREND",
       "signal": "CASH / WAIT FOR HIGH-CONVICTION SETUP"
     },
     {
       "symbol": "BNBUSDT",
-      "price": 559.98,
-      "ema20_1h": 549.81,
-      "ema50_1h": 550.31,
-      "rsi14_1h": 67.3,
-      "obi_20_pct": -28.9,
-      "cvd_pct": -11.1,
-      "regime": "BEAR_TREND",
-      "signal": "SHORT (Trend + Orderflow Aligned)"
+      "price": 551.23,
+      "ema20_1h": 552.57,
+      "ema50_1h": 550.97,
+      "rsi14_1h": 48.5,
+      "obi_20_pct": 76.6,
+      "cvd_pct": -9.7,
+      "regime": "BULL_TREND",
+      "signal": "CASH / WAIT FOR HIGH-CONVICTION SETUP"
     }
   ]
 }
