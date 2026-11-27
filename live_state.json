@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-27 14:59:59 UTC",
+  "updated_at": "2026-11-27 23:25:38 UTC",
   "wallet_address": "0x0A96Fe63357c83640445Fd1Ee9d210B334b94052",
   "earnings_monitor": {
     "total_wallet_usd": 0.12,
@@ -79,47 +79,47 @@
   "signals": [
     {
       "symbol": "BTCUSDT",
-      "price": 59185.65,
-      "ema20_1h": 61098.62,
-      "ema50_1h": 60688.2,
-      "rsi14_1h": 24.6,
-      "obi_20_pct": 9.7,
-      "cvd_pct": 26.3,
+      "price": 59822.35,
+      "ema20_1h": 60365.5,
+      "ema50_1h": 60392.42,
+      "rsi14_1h": 38.6,
+      "obi_20_pct": -36.9,
+      "cvd_pct": 47.0,
       "regime": "BEAR_TREND",
-      "signal": "LONG (Oversold RSI Absorption Bounce)"
+      "signal": "CASH / WAIT FOR HIGH-CONVICTION SETUP"
     },
     {
       "symbol": "ETHUSDT",
-      "price": 1654.42,
-      "ema20_1h": 1713.1,
-      "ema50_1h": 1701.03,
-      "rsi14_1h": 27.1,
-      "obi_20_pct": 98.0,
-      "cvd_pct": -13.0,
+      "price": 1659.23,
+      "ema20_1h": 1685.01,
+      "ema50_1h": 1689.48,
+      "rsi14_1h": 33.9,
+      "obi_20_pct": -50.4,
+      "cvd_pct": -76.0,
       "regime": "BEAR_TREND",
-      "signal": "LONG (Oversold RSI Absorption Bounce)"
+      "signal": "CASH / WAIT FOR HIGH-CONVICTION SETUP"
     },
     {
       "symbol": "SOLUSDT",
-      "price": 70.87,
-      "ema20_1h": 72.39,
-      "ema50_1h": 71.44,
-      "rsi14_1h": 37.1,
-      "obi_20_pct": 16.1,
-      "cvd_pct": 7.1,
+      "price": 71.46,
+      "ema20_1h": 72.07,
+      "ema50_1h": 71.47,
+      "rsi14_1h": 43.7,
+      "obi_20_pct": 16.7,
+      "cvd_pct": -2.7,
       "regime": "BEAR_TREND",
       "signal": "CASH / WAIT FOR HIGH-CONVICTION SETUP"
     },
     {
       "symbol": "BNBUSDT",
-      "price": 546.57,
-      "ema20_1h": 559.58,
-      "ema50_1h": 555.58,
-      "rsi14_1h": 30.4,
-      "obi_20_pct": -56.4,
-      "cvd_pct": -24.3,
+      "price": 553.41,
+      "ema20_1h": 555.77,
+      "ema50_1h": 554.62,
+      "rsi14_1h": 45.0,
+      "obi_20_pct": 4.8,
+      "cvd_pct": 53.2,
       "regime": "BEAR_TREND",
-      "signal": "LONG (Oversold RSI Absorption Bounce)"
+      "signal": "CASH / WAIT FOR HIGH-CONVICTION SETUP"
     }
   ]
 }
