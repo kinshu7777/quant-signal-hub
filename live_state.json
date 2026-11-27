@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-11-27 05:00:18 UTC",
+  "updated_at": "2026-11-27 14:59:59 UTC",
   "wallet_address": "0x0A96Fe63357c83640445Fd1Ee9d210B334b94052",
   "earnings_monitor": {
-    "total_wallet_usd": 0.13,
+    "total_wallet_usd": 0.12,
     "ready_for_user_trade_approval": false,
     "trading_lock_state": "STANDBY_AWAITING_USER_COMMAND",
     "any_bounty_merged": false,
@@ -22,7 +22,7 @@
         "tokens": {
           "USDC": 0.0
         },
-        "usd": 0.13
+        "usd": 0.12
       },
       "Arbitrum": {
         "native": 0.0,
@@ -79,47 +79,47 @@
   "signals": [
     {
       "symbol": "BTCUSDT",
-      "price": 61416.01,
-      "ema20_1h": 60860.55,
-      "ema50_1h": 60450.51,
-      "rsi14_1h": 67.8,
-      "obi_20_pct": 61.8,
-      "cvd_pct": 83.2,
-      "regime": "BULL_TREND",
-      "signal": "CASH / WAIT FOR HIGH-CONVICTION SETUP"
+      "price": 59185.65,
+      "ema20_1h": 61098.62,
+      "ema50_1h": 60688.2,
+      "rsi14_1h": 24.6,
+      "obi_20_pct": 9.7,
+      "cvd_pct": 26.3,
+      "regime": "BEAR_TREND",
+      "signal": "LONG (Oversold RSI Absorption Bounce)"
     },
     {
       "symbol": "ETHUSDT",
-      "price": 1732.47,
-      "ema20_1h": 1707.45,
-      "ema50_1h": 1694.48,
-      "rsi14_1h": 69.6,
-      "obi_20_pct": -83.0,
-      "cvd_pct": 26.2,
-      "regime": "BULL_TREND",
-      "signal": "SHORT (Overbought RSI Exhaustion Fade)"
+      "price": 1654.42,
+      "ema20_1h": 1713.1,
+      "ema50_1h": 1701.03,
+      "rsi14_1h": 27.1,
+      "obi_20_pct": 98.0,
+      "cvd_pct": -13.0,
+      "regime": "BEAR_TREND",
+      "signal": "LONG (Oversold RSI Absorption Bounce)"
     },
     {
       "symbol": "SOLUSDT",
-      "price": 72.74,
-      "ema20_1h": 71.58,
-      "ema50_1h": 70.75,
-      "rsi14_1h": 72.6,
-      "obi_20_pct": 23.4,
-      "cvd_pct": -56.5,
-      "regime": "BULL_TREND",
-      "signal": "SHORT (Overbought RSI Exhaustion Fade)"
+      "price": 70.87,
+      "ema20_1h": 72.39,
+      "ema50_1h": 71.44,
+      "rsi14_1h": 37.1,
+      "obi_20_pct": 16.1,
+      "cvd_pct": 7.1,
+      "regime": "BEAR_TREND",
+      "signal": "CASH / WAIT FOR HIGH-CONVICTION SETUP"
     },
     {
       "symbol": "BNBUSDT",
-      "price": 563.52,
-      "ema20_1h": 556.86,
-      "ema50_1h": 553.41,
-      "rsi14_1h": 70.6,
-      "obi_20_pct": 60.7,
-      "cvd_pct": -65.9,
-      "regime": "BULL_TREND",
-      "signal": "SHORT (Overbought RSI Exhaustion Fade)"
+      "price": 546.57,
+      "ema20_1h": 559.58,
+      "ema50_1h": 555.58,
+      "rsi14_1h": 30.4,
+      "obi_20_pct": -56.4,
+      "cvd_pct": -24.3,
+      "regime": "BEAR_TREND",
+      "signal": "LONG (Oversold RSI Absorption Bounce)"
     }
   ]
 }
